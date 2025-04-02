@@ -6,12 +6,12 @@ Olá! Sou um entusiasta de tecnologia e programação. Aqui você encontrará pr
 
 ## 🚀 Tecnologias que utilizo:
 
-<div>
+<span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50px" />
-</div>
+</span>
 
 ---
 
