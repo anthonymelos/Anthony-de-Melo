@@ -2,13 +2,15 @@
 
 Olá! Sou um entusiasta de tecnologia e programação. Aqui você encontrará projetos relacionados a **Python, HTML5, CSS3 e MySQL**, além de outras tecnologias que venho explorando.
 
-
+<p align="center">
 <img src="https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif" alt="catcoding" width="300px"/>
+</p>
+
 ---
 
 ## 🚀 Tecnologias que utilizo:
 
-<div>
+<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50px" />
