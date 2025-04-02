@@ -11,10 +11,12 @@ Olá! Sou um entusiasta de tecnologia e programação. Aqui você encontrará pr
 ## 🚀 Tecnologias que utilizo:
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50px"/>
 </div>
 
 ---
@@ -23,7 +25,7 @@ Olá! Sou um entusiasta de tecnologia e programação. Aqui você encontrará pr
 
 - 🎓 Estudando **Gestão Financeira**, **Programação**.
 - 📚 Aprendendo sobre **Desenvolvimento Web** e **Banco de Dados**.
-- 🔧 Começando na criação de soluções com **Python**.
+- 🔧 Começando na criação de soluções com **Python** e versão de código com **Git e Github**.
 - 📱 Empreendedor.
 
 ---
