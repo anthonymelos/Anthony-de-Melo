@@ -2,6 +2,8 @@
 
 Olá! Sou um entusiasta de tecnologia e programação. Aqui você encontrará projetos relacionados a **Python, HTML5, CSS3 e MySQL**, além de outras tecnologias que venho explorando.
 
+
+<img src="https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif" alt="catcoding" width="300px"/>
 ---
 
 ## 🚀 Tecnologias que utilizo:
