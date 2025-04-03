@@ -23,7 +23,7 @@ Olá! Sou um entusiasta de tecnologia e programação. Aqui você encontrará pr
 
 ## 📌 Sobre mim:
 
-- 🎓 Estudando **Gestão Financeira**, **Programação**.
+- 🎓 Estudando **Gestão Financeira**, **Programação**, **Ciência de Dados** e **Inteligência Artificial**.
 - 📚 Aprendendo sobre **Desenvolvimento Web** e **Banco de Dados**.
 - 🔧 Começando na criação de soluções com **Python** e versão de código com **Git e Github**.
 - 📱 Empreendedor.
